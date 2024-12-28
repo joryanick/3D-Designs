@@ -1,5 +1,11 @@
 [![License: CC BY-SA](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
+![JoryMakes Refillable Nespresso Capsule Organizer Tray](https://raw.githubusercontent.com/joryanick/3D-Designs/refs/heads/main/images/JoryMakes%20Capsule%20holder%20tray%20v2.3%20for%20iCafilas%20Nespresso%20refillable%20capsules.jpg?raw=true)
+<br>
+
+![JoryMakes Diffuser for Sofirn SC18 flashlight torch](https://raw.githubusercontent.com/joryanick/3D-Designs/refs/heads/main/images/JoryMakes%20Diffuser%20for%20Sofirn%20SC18%20flashlight%20torch.jpg?raw=true)
+<br>
+
 # JoryMakes 3D Model Collection
 
 ## About This Repository
